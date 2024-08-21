@@ -48,7 +48,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Juan Miguel Rojas** - *Initial work* - [Juan Miguel Rojas]([https://github.com/PurpleBooth](https://github.com/juanmiguelrojas))
+* **Juan Miguel Rojas** - *Initial work* [juanmiguelrojas](https://github.com/juanmiguelrojas)
 
 ## License
 
